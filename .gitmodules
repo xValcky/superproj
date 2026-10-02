@@ -1,3 +1,0 @@
-[submodule "vendor/subproj"]
-	path = vendor/subproj
-	url = git@github.com:xValcky/subproj-renamed.git
