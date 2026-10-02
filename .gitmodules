@@ -1,0 +1,3 @@
+[submodule "libs/subproj"]
+	path = libs/subproj
+	url = git@github.com:xValcky/subproj.git
